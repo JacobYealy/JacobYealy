@@ -1,7 +1,8 @@
 ### Hi there 👋, my name is Jacob
 #### I am a tech enthusiast that enjoys cybersecurity and programming fullstack applications. I currently work as a system administrator and build websites for small businesses on the side.
 
-I am a recent computer science graduate looking to expand my skillset in all directions. I'd like to eventually land a career where I can blend the skills of software development and cybersecurity.
+I am a recent computer science graduate looking to expand my skillset in all directions. I'd like to eventually land a career where I can blend the skills of software development and cybersecurity. My current project is private as I am 
+hoping to monetize it.
 
 Skills: C | C# | Python | HTML5 | CSS | Powershell
 

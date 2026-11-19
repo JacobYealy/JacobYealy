@@ -1,13 +1,9 @@
-### Hi there 👋, my name is Jacob
-#### I am a tech enthusiast that enjoys cybersecurity and programming fullstack applications. I currently work as a system administrator and build websites for small businesses on the side.
+### Hi, I’m Jacob 👋
+#### I am a tech enthusiast that enjoys cybersecurity and automation. I currently work as a system administrator and am studying agentic workflows.
 
-I am a recent computer science graduate looking to expand my skillset in all directions. I'd like to eventually land a career where I can blend the skills of software development and cybersecurity. My current project is private as I am 
-hoping to monetize it.
+I have an M.S. in Cyber Operations and a B.S. in Computer Science. I’m especially interested in AI security, including how to give AI agents access to tools and data while enforcing least privilege.
 
-Skills: C | C# | Python | HTML5 | CSS | Powershell
-
-- 🔭 I’m currently working on certifications 
-- 🌱 I’m starting a M.Sc. in Cyber Operations
+Skills: Python | Powershell | Penetration Testing | System Hardening
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JacobYealy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jacobyealy/)  
